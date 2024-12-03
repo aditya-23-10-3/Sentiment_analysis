@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-API_KEY = 'AIzaSyDO9G81oP2NZBkunAdFMaIZRh9J6FQXJhM'  # Replace with your YouTube Data API key
+API_KEY = ''  # Replace with your YouTube Data API key
 
 def fetch_youtube_comments(video_id):
     """
